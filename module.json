@@ -1,8 +1,8 @@
 {
-  "id": "module",
-  "title": "New Module",
+  "id": "loading-screen-tips",
+  "title": "Loading Screen Tips",
   "description": "",
-  "version": "This is auto replaced",
+  "version": "0.0.1",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
@@ -12,9 +12,9 @@
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Tom Molloy",
+      "url": "https://github.com/lderan",
+      "discord": "Tom#2199"
     }
   ],
   "relationships": {
@@ -37,15 +37,10 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
+  "url": "https://github.com/lderan/loading-tips",
+  "manifest": "https://raw.githubusercontent.com/lderan/loading-tips/master/module.json",
+  "download": "https://raw.githubusercontent.com/lderan/loading-tips/master/module.json",
   "license": "LICENSE",
   "readme": "README.md",
-  "media": [
-    {
-      "type": "icon",
-      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
-    }
-  ]
+  "media": []
 }
